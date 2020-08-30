@@ -3,7 +3,6 @@ module github.com/na4ma4/dfrobot-eink-display
 go 1.15
 
 require (
-	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/magiconair/properties v1.8.2 // indirect
 	github.com/mitchellh/mapstructure v1.3.3 // indirect
 	github.com/onsi/ginkgo v1.14.0
